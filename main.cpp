@@ -3,7 +3,7 @@
 void funciton(int x)
 {
     cout << "funciton::you have provoded the interger:" << x << "\n";
-    cout << "function::added a line here" << "\n";
+    cout << "function::added a line here" << x << "\n";
 }
 
 
